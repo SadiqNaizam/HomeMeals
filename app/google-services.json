@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "198687526399",
+    "firebase_url": "https://homemeals-fbb36.firebaseio.com",
+    "project_id": "homemeals-fbb36",
+    "storage_bucket": "homemeals-fbb36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198687526399:android:92fa66ad5f892b3acb2bca",
+        "android_client_info": {
+          "package_name": "com.example.homemeals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198687526399-msmh1q6cvr421nci1r6l39so339fnrnk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.homemeals",
+            "certificate_hash": "3a77211528b63f545e73dd5ab4b5a731badc6b40"
+          }
+        },
+        {
+          "client_id": "198687526399-q28aavic83h127n0f812j1plvj5csgmc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2RRhGY2F2TcOOytsWwJZv8hK_f8AE4zk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198687526399-q28aavic83h127n0f812j1plvj5csgmc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
